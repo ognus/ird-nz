@@ -1,0 +1,14 @@
+{
+  "name": "inz-nz",
+  "description": "Checksum validator for New Zealand's IRD/GST number.",
+  "version": "0.0.1",
+  "keywords": [
+    "ird",
+    "gst",
+    "validator",
+    "new zealand"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ognus/ird-nz",
+  "main": "irdnz.min.js"
+}

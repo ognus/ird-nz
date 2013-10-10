@@ -1,0 +1,19 @@
+{
+  "name": "inz-nz",
+  "description": "Checksum validator for New Zealand's IRD/GST number.",
+  "keywords": [
+    "ird",
+    "gst",
+    "validator",
+    "new zealand"
+  ],
+  "version": "0.0.1",
+  "author": "Tomek Kolasa <tomek@kolasa.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-simple-mocha": "latest",
+    "chai": "latest"
+  }
+}
