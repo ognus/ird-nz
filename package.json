@@ -10,6 +10,14 @@
   "version": "0.0.1",
   "author": "Tomek Kolasa <tomek@kolasa.me>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ognus/ird-nz"
+  },
+  "main": "./irdnz.js",
+  "engines": {
+    "node": "*"
+  },
   "devDependencies": {
     "grunt": "latest",
     "grunt-contrib-uglify": "latest",
