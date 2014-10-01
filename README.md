@@ -33,7 +33,7 @@ irdnz.isValid('123123123');
 
 ### Browser
 ```js
-// irdnz is exposed as a global (windows.irdnz)
+// irdnz is exposed as a global (window.irdnz)
 irdnz.isValid(123123123);
 // or pass IRD/GST number as a string
 irdnz.isValid('123123123');
