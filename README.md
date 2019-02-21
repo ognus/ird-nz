@@ -4,7 +4,7 @@ ird-nz
 Checksum validator for New Zealand's IRD/GST number.
 
 Implementation based on specification available at:
-http://www.ird.govt.nz/resources/9/e/9e408a004e329f16a91bbf8ad6853786/rwt-nrwt-spec-2013+v1.0+.pdf
+https://www.ird.govt.nz/resources/6/1/6198472a-ebee-4b71-bb16-3f7275e7f2bd/2019+RWT-NRWT+Specification+v1.0.pdf
 
 # Install
 ### Node
